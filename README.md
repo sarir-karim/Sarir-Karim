@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I am a Frontend Developer working on HTML, CSS, JAVASCRIPT, AND REACT.JS
 
-[My Site Link](https://sarirkarim.netlify.app/)
+[My Portfolio Site Link](https://sarirkarim.netlify.app/)
