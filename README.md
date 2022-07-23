@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Sarir Karim
 
 <!--
 **sarir-karim/Sarir-Karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+
+I am a Frontend Developer working on HTML, CSS, JAVASCRIPT, AND REACT.JS
+
+[My Site Link](https://sarirkarim.netlify.app/)
